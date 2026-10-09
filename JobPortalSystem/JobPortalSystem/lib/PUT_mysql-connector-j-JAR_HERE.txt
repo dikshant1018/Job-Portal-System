@@ -1,0 +1,2 @@
+Copy your mysql-connector-j-9.7.0.jar into this folder (the same jar you used before).
+Only needed for run.bat / run.sh. IntelliJ already points to your own copy via .idea.
